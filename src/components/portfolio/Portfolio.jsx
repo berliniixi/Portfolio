@@ -18,7 +18,7 @@ const Portfolio = () => {
 
           <h3>E-Commerce</h3>
             <div className="portfolio__item-cta">
-              <GitHubButton href="https://github.com/ntkme/github-buttons/subscription" data-color-scheme="no-preference: dark_high_contrast; light: dark_high_contrast; dark: dark_dimmed;" data-size="large" aria-label="Watch ntkme/github-buttons on GitHub">Watch</GitHubButton>   
+              <GitHubButton href="https://github.com/berliniixi/Nike-E-Commerce" data-color-scheme="no-preference: dark_high_contrast; light: dark_high_contrast; dark: dark_dimmed;" data-size="large" aria-label="Watch ntkme/github-buttons on GitHub">Watch</GitHubButton>   
               </div>
         </article>
 
@@ -29,7 +29,7 @@ const Portfolio = () => {
 
           <h3>E-Banking System</h3>
             <div className="portfolio__item-cta">
-              <GitHubButton href="https://github.com/ntkme/github-buttons/subscription" data-color-scheme="no-preference: dark_high_contrast; light: dark_high_contrast; dark: dark_dimmed;" data-size="large" aria-label="Watch ntkme/github-buttons on GitHub">Watch</GitHubButton>   
+              <GitHubButton href="https://github.com/berliniixi/E-Banking-System" data-color-scheme="no-preference: dark_high_contrast; light: dark_high_contrast; dark: dark_dimmed;" data-size="large" aria-label="Watch ntkme/github-buttons on GitHub">Watch</GitHubButton>   
             </div>
         </article>
 
@@ -40,7 +40,7 @@ const Portfolio = () => {
 
           <h3>Space Shooter Game</h3>
             <div className="portfolio__item-cta">
-              <GitHubButton href="https://github.com/ntkme/github-buttons/subscription" data-color-scheme="no-preference: dark_high_contrast; light: dark_high_contrast; dark: dark_dimmed;" data-size="large" aria-label="Watch ntkme/github-buttons on GitHub">Watch</GitHubButton>   
+              <GitHubButton href="https://github.com/berliniixi/Space-Shooter-Game" data-color-scheme="no-preference: dark_high_contrast; light: dark_high_contrast; dark: dark_dimmed;" data-size="large" aria-label="Watch ntkme/github-buttons on GitHub">Watch</GitHubButton>   
             </div>
         </article>
       </div>
