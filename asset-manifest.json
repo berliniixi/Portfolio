@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7714ce0.css",
+    "main.js": "/static/js/main.7de5f412.js",
+    "static/media/gitHub3.jpg": "/static/media/gitHub3.2b88325cab6835219245.jpg",
+    "static/media/profil3.png": "/static/media/profil3.9260ca03c522eb2b19a5.png",
+    "static/media/gitHub1.jpg": "/static/media/gitHub1.92513f52ed199b955cab.jpg",
+    "static/media/STELIOS-TALIADOROS-CV.pdf": "/static/media/STELIOS-TALIADOROS-CV.6f9a70bc5213d0ae3e0e.pdf",
+    "static/media/me1.png": "/static/media/me1.2577e47beb7fa5c4b7a9.png",
+    "index.html": "/index.html",
+    "main.a7714ce0.css.map": "/static/css/main.a7714ce0.css.map",
+    "main.7de5f412.js.map": "/static/js/main.7de5f412.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7714ce0.css",
+    "static/js/main.7de5f412.js"
+  ]
+}
