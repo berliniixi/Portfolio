@@ -62,7 +62,7 @@ const Experience = () => {
               <HiBadgeCheck className='experience__details-icon' />
               <div>
                 <h4>C#</h4>
-                <small className='text-light'>Entry-level</small>
+                <small className='text-light'></small>
               </div>
             </article>
 
